@@ -1,0 +1,28 @@
+# drawdown-cap
+
+> A limit down. The pool may not fall more than a fixed distance below where the current epoch opened, and the limit resets on a schedule rather than on anyone's say-so.
+
+drawdown-cap is an open-source repository by rdbbarros, part of the three.ws ecosystem.
+
+## Docs
+
+- [README](https://github.com/rdbbarros/defi-lending-pool/blob/HEAD/README.md): install, usage and reference
+- [How it works](https://github.com/rdbbarros/defi-lending-pool/blob/HEAD/README.md#how-it-works)
+- [Prior art](https://github.com/rdbbarros/defi-lending-pool/blob/HEAD/README.md#prior-art)
+- [Where it does not help](https://github.com/rdbbarros/defi-lending-pool/blob/HEAD/README.md#where-it-does-not-help)
+- [Using it](https://github.com/rdbbarros/defi-lending-pool/blob/HEAD/README.md#using-it)
+- [What it reverts with](https://github.com/rdbbarros/defi-lending-pool/blob/HEAD/README.md#what-it-reverts-with)
+- [The callbacks it claims](https://github.com/rdbbarros/defi-lending-pool/blob/HEAD/README.md#the-callbacks-it-claims)
+- [It says what it is, on-chain](https://github.com/rdbbarros/defi-lending-pool/blob/HEAD/README.md#it-says-what-it-is-on-chain)
+- [Build and test](https://github.com/rdbbarros/defi-lending-pool/blob/HEAD/README.md#build-and-test)
+- [AGENTS.md](https://github.com/rdbbarros/defi-lending-pool/blob/HEAD/AGENTS.md): guidance for coding agents
+- [Full text for LLMs](https://github.com/rdbbarros/defi-lending-pool/blob/HEAD/llms-full.txt): the README inlined
+
+## Project
+
+- [Source](https://github.com/rdbbarros/defi-lending-pool)
+- [Issues](https://github.com/rdbbarros/defi-lending-pool/issues)
+- [Discussions](https://github.com/rdbbarros/defi-lending-pool/discussions)
+- [Homepage](https://drawdown-cap.pages.dev)
+- [three.ws](https://three.ws): the platform this is part of
+- [All repositories by rdbbarros](https://github.com/rdbbarros/rdbbarros#readme)
